@@ -1,0 +1,3 @@
+class CollectibleCoin
+ 
+end
